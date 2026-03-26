@@ -1,0 +1,7 @@
+com\example\productbackend\repository\ProductRepository.class
+com\example\productbackend\entity\Product.class
+com\example\productbackend\ProductBackendApplication.class
+com\example\productbackend\dto\ProductRequestDTO.class
+com\example\productbackend\entity\Product$ProductBuilder.class
+com\example\productbackend\service\ProductService.class
+com\example\productbackend\controller\ProductController.class
